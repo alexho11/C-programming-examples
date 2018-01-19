@@ -1,2 +1,2 @@
 # C-programming-examples
-some demo of language of C
+some demos of language of C
